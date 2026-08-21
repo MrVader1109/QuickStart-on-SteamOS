@@ -24,8 +24,8 @@ Because sudo required a password, you'll need to set one in Konsole with the "pa
 <img width="1006" height="520" alt="Screenshot_20260821_174136" src="https://github.com/user-attachments/assets/d044bdb3-6394-4d77-8198-4590da44a141" /> <br/>
 
 ## 5. Select Libraries and add 'winhttp'
-After that, click apply and close it out. 
-<img width="408" height="214" alt="Screenshot_20260821_174455" src="https://github.com/user-attachments/assets/290d610d-a47e-4dbd-8616-b21d5341a8a6" />
+After that, click apply and close it out. </br>
+<img width="408" height="214" alt="Screenshot_20260821_174455" src="https://github.com/user-attachments/assets/290d610d-a47e-4dbd-8616-b21d5341a8a6"/> </br>
 
 ## 6. Close out ProtonTricks and enable quickstart in SeaPower.
 Everything should work after that, but make sure to fully restart the game after enabling the mods.
