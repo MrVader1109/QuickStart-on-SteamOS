@@ -1,7 +1,7 @@
 # QuickStart-on-SteamOS
 This isn't SteamOS specific, just make sure that you can install protontricks to use this guide and it'll work on almost any linux system.
 >[!NOTE]
->Make sure you have properly downloaded Anchor Chain, guide is [here](https://www.youtube.com/watch?v=qc88egsV-2g&t=33s)
+>Make sure you have properly downloaded Anchor Chain, guide is [here](https://www.youtube.com/watch?v=qc88egsV-2g&t=33s) </br>
 >I did not make this solution, I only added the steps to make it easier for other people to install the Quick Start mod for Sea Power. </br>
 >Here's the link for the initial guide if you want to use that instead. [Click Here](https://docs.bepinex.dev/articles/advanced/proton_wine.html) </br>
 >Also make sure that you've installed the Anchor Chain mod as it depends on that. [Youtube Guide](https://youtu.be/qc88egsV-2g) </br>
